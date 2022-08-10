@@ -1,6 +1,6 @@
 ### Hi there,  I'm Alexey ＜（＾－＾）＞ ✨
 
-I love the frontend and strive to develop in it, and I also like to write longreads about technology and science
+I love the frontend and strive to improve in it, study daily, also fond of writing longreads about IT and science
 <!--
 **Inventoris/Inventoris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
